@@ -1,3 +1,3 @@
-import BookListItem from './booklist-item';
+import BookListItem from './book-list-item';
 
 export default BookListItem;
