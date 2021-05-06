@@ -1,5 +1,5 @@
 import React, { Fragment } from 'react';
-import './book-list-item.css';
+import './booklist-item.css';
 
 const BookListItem = ({ book }) => {
   const { title, author } = book;
